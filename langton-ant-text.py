@@ -7,7 +7,7 @@ def drawGrid(grid: list):
     for line in grid:
         print(*line)
 
-# if set the size to 2 it basically creates a loading icon
+# if you set the size to 2 it basically creates a loading icon
 # there you go, another feature
 def langton(size=20):
     white, black = ' ', '#'
