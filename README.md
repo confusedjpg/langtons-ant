@@ -9,7 +9,8 @@ The second version requires Pygame, and has a bit more features.
 You can:
 - speed up/slow down the simulation
 - pause it
-- save a screenshot of the current frame
-and I guess you can add infinitely more features in the code itself.
+- save a screenshot of the current frame  
+
+..and I guess you can add infinitely more features in the code itself.
 
 Enjoy? I surely did while making it :]
